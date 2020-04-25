@@ -1,0 +1,1 @@
+GLOBAL.getmetatable(GLOBAL.TheNet).__index["GetPVPEnabled"] = function() return true end
